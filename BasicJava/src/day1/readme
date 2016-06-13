@@ -1,0 +1,10 @@
+day1:搭建环境变量
+
+1.一个普通的".java"文件,需要经过编译生成".class"文件,再通过JVM虚拟机,根据不同的
+操作系统JVM提供不同的API支持,因此Java实现了跨平台
+
+2.JDK (Java Development kit) 
+	
+	包含 JRE (Java SE Runtime Environment)
+	
+3.在命令行启动QQ  提示：set path
